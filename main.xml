@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+    <onlycollections>Weather.*</onlycollections>
+    <indb>
+    	<dbstr>10.27.129.59</dbstr>
+	  	<port>30000</port>
+	  	<usr>sa</usr>
+	  	<pwd>voicedbadmin</pwd>
+	  	<db>local</db>
+	  	<oplog>oplog.rs</oplog>
+    </indb>
+    <outdb>
+    	<dbstr>10.27.129.98</dbstr>
+	  	<port>27019</port>
+	  	<usr>sa</usr>
+	  	<pwd>voicedbadmin</pwd>
+    </outdb>
+</main>
